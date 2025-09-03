@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require "cnpj_alfanumerico"
+require "cnpj_alfanumerico/cli"
+
+CnpjAlfanumerico::CLI.start(ARGV)

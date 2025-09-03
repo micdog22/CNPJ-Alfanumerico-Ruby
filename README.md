@@ -8,12 +8,12 @@ Inclui **CLI** (`cnpj-alfanumerico`) e **tests (RSpec)**.
 
 ## Recursos
 
-- ✅ Validação completa dos dígitos verificadores
-- ✅ Remoção e aplicação de máscara (`11.222.333/0001-81`)
-- ✅ Geração de CNPJ válido aleatório
-- ✅ Conversão **Numérico ⇄ Alfanumérico (Base36)** para compactar o CNPJ em um código curto
-- ✅ CLI sem dependências externas
-- ✅ Testes (RSpec)
+- Validação completa dos dígitos verificadores
+- Remoção e aplicação de máscara (`11.222.333/0001-81`)
+- Geração de CNPJ válido aleatório
+- Conversão **Numérico ⇄ Alfanumérico (Base36)** para compactar o CNPJ em um código curto
+- CLI sem dependências externas
+- Testes (RSpec)
 
 ## Instalação
 

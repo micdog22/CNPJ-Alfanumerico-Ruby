@@ -76,7 +76,7 @@ cnpj-alfanumerico --help
 
 - O CNPJ (14 dígitos) é tratado como inteiro decimal e convertido para **base36** (`0-9A-Z`).
 - `to_alfa` remove zeros à esquerda; `from_alfa` **reconstrói com 14 dígitos**, preservando o valor.
-- **A conversão NÃO substitui a validação** — sempre utilize `valid?` quando necessário.
+- **A conversão NÃO substitui a validação**: sempre utilize `valid?` quando necessário.
 
 ## Testes
 
@@ -86,4 +86,4 @@ bundle exec rspec
 
 ## Licença
 
-MIT — © MicDog (Michael Douglas)
+MIT © MicDog (Michael Douglas)
